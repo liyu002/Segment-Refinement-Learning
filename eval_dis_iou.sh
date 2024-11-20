@@ -1,0 +1,1 @@
+python scripts/eval_miou_dis.py --refine /data3/zhangsn/Project/liyu/SegRefiner/test_hr_dis/DIS-TE1 --coarse /data3/zhangsn/Project/liyu/SegRefiner/coarse_data/sotas-dis-eccv2022/isnet/DIS-TE1 --gt /data3/zhangsn/Project/liyu/SegRefiner/data/dis/DIS-TE1/gt
